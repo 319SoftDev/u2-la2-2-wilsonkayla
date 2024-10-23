@@ -38,3 +38,12 @@ img {
 } #clear-button:hover {
   box-shadow: 0.5px 0.5px 2px grey;
 }
+:root {
+  --bulma-primary-h: 121deg;
+  --bulma-primary-l: 89%;
+  --bulma-scheme-h: 195;
+}
+
+
+
+
